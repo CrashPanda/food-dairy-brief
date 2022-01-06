@@ -6,7 +6,7 @@
   $.jInvertScroll = function(sel, options) {
       var defaults = {
           width: 'auto',		    // The horizontal container width
-          height: '1150',		    // How far the user can scroll down (shorter distance = faster scrolling)
+          height: '1200',		    // How far the user can scroll down (shorter distance = faster scrolling)
           onScroll: function(percent) {  // Callback fired when the user scrolls down, the percentage of how far the user has scrolled down gets passed as parameter (format: 0.xxxx - 1.0000)
               // do whatever you like
             },
