@@ -1,5 +1,13 @@
 # food-dairy-brief
 
+
+I was given one week to improve upon this single page [site](http://food-dairy.co.uk/):
+
+![alt text](https://github.com/CrashPanda/food-dairy-brief/blob/main/assets/img/brief.png "Brief-single-page-site")
+
+
+
+
 Utilises pixxelfactory's plugin jInvertScroll.
 
 
