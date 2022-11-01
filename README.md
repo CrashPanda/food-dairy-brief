@@ -12,7 +12,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 
 ### Brief
-As the part of the second round of interview process at [Tanist]www.tanist.co.uk I was tasked with improving upon this single page [site](http://food-dairy.co.uk/):
+As the part of the second round of interview process at [Tanist](www.tanist.co.uk) I was tasked with improving upon this single page [site](http://food-dairy.co.uk/):
 
 ![alt text](https://github.com/CrashPanda/food-dairy-brief/blob/main/assets/img/brief.png "Brief-single-page-site")
 
