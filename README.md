@@ -11,9 +11,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 
-### Brief
+## Brief
 
-As the part of the second round of interviews for a job at [Tanist]www.tanist.co.uk I was given one week to improve upon this single page [site](http://food-dairy.co.uk/):
+As the part of the second round of interview process at [Tanist]www.tanist.co.uk I was tasked with improving upon this single page [site](http://food-dairy.co.uk/):
 
 ![alt text](https://github.com/CrashPanda/food-dairy-brief/blob/main/assets/img/brief.png "Brief-single-page-site")
 
